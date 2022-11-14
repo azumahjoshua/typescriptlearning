@@ -5,5 +5,8 @@ let neNum = "Ama"
 
 console.log(greetings)
 
-
+let hero : string;
+function getHero() {
+    
+}
 export { }
